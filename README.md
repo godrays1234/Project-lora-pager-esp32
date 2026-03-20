@@ -34,10 +34,14 @@
 ---
 
 ## 🖼️ Галерея
+Cоздание компонента (STM32) для библиотеки 
 ![STM32](https://github.com/user-attachments/assets/909aaf4f-54b1-458a-b026-ae9f6d4429a8)
 ![STM32](https://github.com/user-attachments/assets/bd3228be-8e36-4ab4-90a5-55032b351859)
+Первый опыт УГО для микросхем
 ![Первый опыт УГО для микросхем](https://github.com/user-attachments/assets/11def4a0-4bc5-42a3-a05a-14b0a768da89)
+После внесения правок и рекомендаций
 ![После внесения правок и рекомендаций](https://github.com/user-attachments/assets/62e450e7-5111-4de3-b444-b0735e990318)
+Примерное расположение компонентов
 ![Примерное расположение компонентов](https://github.com/user-attachments/assets/ae7c4b10-d1e4-4e4f-b55f-90eaf68a95eb)
 ![Примерное расположение компонентов](https://github.com/user-attachments/assets/ec963fd4-dc73-4360-a77f-92127fbb2796)
 ![Примерное расположение компонентов](https://github.com/user-attachments/assets/120a7c1e-8fa4-4149-a54e-f74406cdbab0)
